@@ -1,3 +1,3 @@
 hello world
-Git is easy
+git is easy,just do it!
 i write it now
